@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\bin\Debug\net6.0\Task34_ArrayEvenNumbersCount.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\bin\Debug\net6.0\Task34_ArrayEvenNumbersCount.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\bin\Debug\net6.0\Task34_ArrayEvenNumbersCount.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\bin\Debug\net6.0\Task34_ArrayEvenNumbersCount.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\bin\Debug\net6.0\Task34_ArrayEvenNumbersCount.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\refint\Task34_ArrayEvenNumbersCount.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\Task34_ArrayEvenNumbersCount.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task34_ArrayEvenNumbersCount\obj\Debug\net6.0\ref\Task34_ArrayEvenNumbersCount.dll
