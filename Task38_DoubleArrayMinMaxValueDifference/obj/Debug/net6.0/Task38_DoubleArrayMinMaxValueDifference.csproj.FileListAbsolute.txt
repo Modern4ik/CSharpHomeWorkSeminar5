@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\bin\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\bin\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\bin\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\bin\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\bin\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\refint\Task38_DoubleArrayMinMaxValueDifference.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\Task38_DoubleArrayMinMaxValueDifference.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task38_DoubleArrayMinMaxValueDifference\obj\Debug\net6.0\ref\Task38_DoubleArrayMinMaxValueDifference.dll
