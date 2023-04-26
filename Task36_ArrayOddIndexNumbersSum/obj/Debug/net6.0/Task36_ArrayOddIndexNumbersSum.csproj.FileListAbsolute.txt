@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\bin\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\bin\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\bin\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\bin\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\bin\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\refint\Task36_ArrayOddIndexNumbersSum.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\Task36_ArrayOddIndexNumbersSum.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar5\Task36_ArrayOddIndexNumbersSum\obj\Debug\net6.0\ref\Task36_ArrayOddIndexNumbersSum.dll
